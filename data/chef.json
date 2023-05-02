@@ -6,7 +6,73 @@
     "experiance" : "05 years",
      "titel" : "hey.. im maktuba im senior chef in one of The famouse resturent 'the Globe' in riyadh,saudi arabia i have a experiance of 05 years on this chef faild",
     "totalRec" : "22",
-    "like" : "789"
+    "like" : "789",
+    "recipe" : [
+        {
+          "recipeName": "kabsa",
+          "ingradiants": [
+            "2 cups basmati rice",
+            "1 kg chicken, cut into pieces",
+            "1 onion, chopped",
+            "4 cloves garlic, minced",
+            "2 tomatoes, diced",
+            "1 tbsp tomato paste",
+            "2 tbsp vegetable oil",
+            "2 tbsp butter",
+            "2 cinnamon sticks"
+          ],
+
+          "mathod": [
+            "Rinse the rice and soak it in water for 30 minutes.",
+            "In a large pot or dutch oven, heat the vegetable oil and butter over medium-high heat.",
+            "Add the chopped onion and garlic, and cook until the onion is translucent.",
+            "Add the diced tomatoes and tomato paste, and cook for a few minutes until the tomatoes start to break down.",
+            "Add the cinnamon sticks, bay leaves, cardamom pods, cumin, coriander, turmeric, black pepper, and salt. Stir to combine.",
+            "Drain the soaked rice and add it to the pot. Stir to coat the rice in the spice mixture",
+            "Add the water and bring to a boil. Reduce the heat to low and cover the pot. Cook for 20-30 minutes",
+            "Once the rice is done, remove the pot from the heat and let it sit, covered, for 5-10 minutes to allow the steam to finish cooking the rice.",
+            "Garnish with chopped parsley or cilantro, if desired. Serve hot."
+          ]
+        },
+        {
+          "recipeName": "Saleeg",
+          "ingradiants": [
+            "1 lb. boneless, skinless chicken breasts, thinly sliced",
+            " 4-6 pita breads",
+            "1 cup plain Greek yogurt",
+            "1/4 cup lemon juice",
+            "2 cloves garlic, minced",
+            " 1 tsp. cumin & 1 tsp. paprika",
+            " Olive oil, for cooking"
+          ],
+          "mathod": [
+            "In a bowl, whisk together the yogurt, lemon juice, garlic, cumin, paprika, turmeric, salt, and pepper. Add the chicken and toss to coat. Marinate in the fridge for at least 30 minutes, up to 8 hours.",
+            "Heat a drizzle of olive oil in a large skillet over medium-high heat. Add the chicken and cook for 5-7 minutes, or until cooked through.",
+            "Toast the pita breads in a toaster or oven until warm and slightly crispy",
+            "Assemble the shawarmas by placing a spoonful of tahini sauce on the pita bread, followed by the chicken and toppings of your choice. Roll up the pita bread and enjoy!"
+          ]
+        },
+        {
+          "recipeName": "Thareed",
+          "ingradiants": [
+            "1 whole chicken, cut into pieces",
+            "1/4 cup vegetable oil",
+            "2 tbsp lemon juice",
+            "1 tbsp paprika",
+            "2 tbsp tomato paste",
+            "1/2 tsp black pepper",
+            "1/4 cup fresh parsley, chopped"
+          ],
+          "mathod": [
+            "In a large bowl, whisk together the vegetable oil, lemon juice, tomato paste, paprika, cumin, coriander, turmeric, salt, black pepper, cinnamon, and cayenne pepper (if using).",
+
+            "Add the minced garlic, chopped onion, and fresh parsley to the marinade, and stir to combine",
+            "Add the chicken pieces to the marinade, and toss to coat. Cover the bowl with plastic wrap, and refrigerate for at least 4 hours or overnight.",
+            "Remove the chicken from the marinade, and shake off any excess. Discard the remaining marinade."
+          ]
+        }
+
+]
   },
 
   {
@@ -16,7 +82,72 @@
     "experiance": "03 years",
     "titel": "hey.. im maktuba im senior chef in one of The famouse resturent 'the Globe' in riyadh,saudi arabia i have a experiance of 03 years on this chef faild",
     "totalRec": "16",
-    "like": "934"
+    "like": "934",
+    "recipe": [
+      {
+        "recipeName": "Mandi",
+        "ingradiants": [
+          "2 cups basmati rice",
+          "1 kg chicken, cut into pieces",
+          "1 onion, chopped",
+          "4 cloves garlic, minced",
+          "2 tomatoes, diced",
+          "1 tbsp tomato paste",
+          "2 tbsp vegetable oil",
+          "2 tbsp butter",
+          "2 cinnamon sticks"
+        ],
+
+        "mathod": [
+          "Rinse the rice and soak it in water for 30 minutes.",
+          "In a large pot or dutch oven, heat the vegetable oil and butter over medium-high heat.",
+          "Add the chopped onion and garlic, and cook until the onion is translucent.",
+          "Add the diced tomatoes and tomato paste, and cook for a few minutes until the tomatoes start to break down.",
+          "Add the cinnamon sticks, bay leaves, cardamom pods, cumin, coriander, turmeric, black pepper, and salt. Stir to combine.",
+          "Drain the soaked rice and add it to the pot. Stir to coat the rice in the spice mixture",
+          "Add the water and bring to a boil. Reduce the heat to low and cover the pot. Cook for 20-30 minutes",
+          "Once the rice is done, remove the pot from the heat and let it sit, covered, for 5-10 minutes to allow the steam to finish cooking the rice.",
+          "Garnish with chopped parsley or cilantro, if desired. Serve hot."
+        ]
+      },
+      {
+        "recipeName": "Haneeth",
+        "ingradiants": [
+          "1 lb. boneless, skinless chicken breasts, thinly sliced",
+          " 4-6 pita breads",
+          "1 cup plain Greek yogurt",
+          "1/4 cup lemon juice",
+          "2 cloves garlic, minced",
+          " 1 tsp. cumin & 1 tsp. paprika",
+          " Olive oil, for cooking"
+        ],
+        "mathod": [
+          "In a bowl, whisk together the yogurt, lemon juice, garlic, cumin, paprika, turmeric, salt, and pepper. Add the chicken and toss to coat. Marinate in the fridge for at least 30 minutes, up to 8 hours.",
+          "Heat a drizzle of olive oil in a large skillet over medium-high heat. Add the chicken and cook for 5-7 minutes, or until cooked through.",
+          "Toast the pita breads in a toaster or oven until warm and slightly crispy",
+          "Assemble the shawarmas by placing a spoonful of tahini sauce on the pita bread, followed by the chicken and toppings of your choice. Roll up the pita bread and enjoy!"
+        ]
+      },
+      {
+        "recipeName": "Shawarma",
+        "ingradiants": [
+          "1 whole chicken, cut into pieces",
+          "1/4 cup vegetable oil",
+          "2 tbsp lemon juice",
+          "1 tbsp paprika",
+          "2 tbsp tomato paste",
+          "1/2 tsp black pepper",
+          "1/4 cup fresh parsley, chopped"
+        ],
+        "mathod": [
+          "In a large bowl, whisk together the vegetable oil, lemon juice, tomato paste, paprika, cumin, coriander, turmeric, salt, black pepper, cinnamon, and cayenne pepper (if using).",
+
+          "Add the minced garlic, chopped onion, and fresh parsley to the marinade, and stir to combine",
+          "Add the chicken pieces to the marinade, and toss to coat. Cover the bowl with plastic wrap, and refrigerate for at least 4 hours or overnight.",
+          "Remove the chicken from the marinade, and shake off any excess. Discard the remaining marinade."
+        ]
+      }
+    ]
   },
   {
     "id": "2",
@@ -25,7 +156,60 @@
     "experiance": "09 years",
     "titel": "hey.. im wajiyah im senior chef in one of The famouse resturent 'the Globe' in riyadh,saudi arabia i have a experiance of 9 years on this chef faild",
     "totalRec": "26",
-    "like": "1256 "
+    "like": "1256 ",
+    "recipe": [
+      {
+        "recipeName": "Chiken Broast",
+        "ingradiants": ["2 cups basmati rice","1 kg chicken, cut into pieces","1 onion, chopped","4 cloves garlic, minced","2 tomatoes, diced","1 tbsp tomato paste","2 tbsp vegetable oil","2 tbsp butter","2 cinnamon sticks"],
+
+        "mathod" : [ "Rinse the rice and soak it in water for 30 minutes.",
+        "In a large pot or dutch oven, heat the vegetable oil and butter over medium-high heat.",
+        "Add the chopped onion and garlic, and cook until the onion is translucent.",
+        "Add the diced tomatoes and tomato paste, and cook for a few minutes until the tomatoes start to break down.",
+        "Add the cinnamon sticks, bay leaves, cardamom pods, cumin, coriander, turmeric, black pepper, and salt. Stir to combine.",
+        "Drain the soaked rice and add it to the pot. Stir to coat the rice in the spice mixture",
+        "Add the water and bring to a boil. Reduce the heat to low and cover the pot. Cook for 20-30 minutes",
+        "Once the rice is done, remove the pot from the heat and let it sit, covered, for 5-10 minutes to allow the steam to finish cooking the rice.",
+        "Garnish with chopped parsley or cilantro, if desired. Serve hot."]
+      },
+      {
+        "recipeName": "Al-Faham",
+        "ingradiants": [
+          "1 lb. boneless, skinless chicken breasts, thinly sliced",
+          " 4-6 pita breads",
+          "1 cup plain Greek yogurt",
+          "1/4 cup lemon juice",
+          "2 cloves garlic, minced",
+          " 1 tsp. cumin & 1 tsp. paprika",
+          " Olive oil, for cooking"
+        ],
+        "mathod": [
+          "In a bowl, whisk together the yogurt, lemon juice, garlic, cumin, paprika, turmeric, salt, and pepper. Add the chicken and toss to coat. Marinate in the fridge for at least 30 minutes, up to 8 hours.",
+          "Heat a drizzle of olive oil in a large skillet over medium-high heat. Add the chicken and cook for 5-7 minutes, or until cooked through.",
+          "Toast the pita breads in a toaster or oven until warm and slightly crispy",
+          "Assemble the shawarmas by placing a spoonful of tahini sauce on the pita bread, followed by the chicken and toppings of your choice. Roll up the pita bread and enjoy!"
+        ]
+      },
+      {
+        "recipeName": "Peshwari",
+        "ingradiants": [
+          "1 whole chicken, cut into pieces",
+          "1/4 cup vegetable oil",
+          "2 tbsp lemon juice",
+          "1 tbsp paprika",
+          "2 tbsp tomato paste",
+          "1/2 tsp black pepper",
+          "1/4 cup fresh parsley, chopped"
+        ],
+        "mathod": [
+          "In a large bowl, whisk together the vegetable oil, lemon juice, tomato paste, paprika, cumin, coriander, turmeric, salt, black pepper, cinnamon, and cayenne pepper (if using).",
+
+          "Add the minced garlic, chopped onion, and fresh parsley to the marinade, and stir to combine",
+          "Add the chicken pieces to the marinade, and toss to coat. Cover the bowl with plastic wrap, and refrigerate for at least 4 hours or overnight.",
+          "Remove the chicken from the marinade, and shake off any excess. Discard the remaining marinade."
+        ]
+      }
+    ]
   },
   {
     "id": "3",
@@ -34,7 +218,72 @@
     "experiance": "15 years",
     "titel": "hey.. im maktuba im senior chef in one of The famouse resturent 'the Globe' in riyadh,saudi arabia i have a experiance of 15 years on this chef faild",
     "totalRec": "35",
-    "like": "1628"
+    "like": "1628",
+    "recipe": [
+      {
+        "recipeName": "chiken Fatirah",
+        "ingradiants": [
+          "2 cups basmati rice",
+          "1 kg chicken, cut into pieces",
+          "1 onion, chopped",
+          "4 cloves garlic, minced",
+          "2 tomatoes, diced",
+          "1 tbsp tomato paste",
+          "2 tbsp vegetable oil",
+          "2 tbsp butter",
+          "2 cinnamon sticks"
+        ],
+
+        "mathod": [
+          "Rinse the rice and soak it in water for 30 minutes.",
+          "In a large pot or dutch oven, heat the vegetable oil and butter over medium-high heat.",
+          "Add the chopped onion and garlic, and cook until the onion is translucent.",
+          "Add the diced tomatoes and tomato paste, and cook for a few minutes until the tomatoes start to break down.",
+          "Add the cinnamon sticks, bay leaves, cardamom pods, cumin, coriander, turmeric, black pepper, and salt. Stir to combine.",
+          "Drain the soaked rice and add it to the pot. Stir to coat the rice in the spice mixture",
+          "Add the water and bring to a boil. Reduce the heat to low and cover the pot. Cook for 20-30 minutes",
+          "Once the rice is done, remove the pot from the heat and let it sit, covered, for 5-10 minutes to allow the steam to finish cooking the rice.",
+          "Garnish with chopped parsley or cilantro, if desired. Serve hot."
+        ]
+      },
+      {
+        "recipeName": "Rug-Bukhari",
+        "ingradiants": [
+          "1 lb. boneless, skinless chicken breasts, thinly sliced",
+          " 4-6 pita breads",
+          "1 cup plain Greek yogurt",
+          "1/4 cup lemon juice",
+          "2 cloves garlic, minced",
+          " 1 tsp. cumin & 1 tsp. paprika",
+          " Olive oil, for cooking"
+        ],
+        "mathod": [
+          "In a bowl, whisk together the yogurt, lemon juice, garlic, cumin, paprika, turmeric, salt, and pepper. Add the chicken and toss to coat. Marinate in the fridge for at least 30 minutes, up to 8 hours.",
+          "Heat a drizzle of olive oil in a large skillet over medium-high heat. Add the chicken and cook for 5-7 minutes, or until cooked through.",
+          "Toast the pita breads in a toaster or oven until warm and slightly crispy",
+          "Assemble the shawarmas by placing a spoonful of tahini sauce on the pita bread, followed by the chicken and toppings of your choice. Roll up the pita bread and enjoy!"
+        ]
+      },
+      {
+        "recipeName": "mutton-biriyani",
+        "ingradiants": [
+          "1 whole chicken, cut into pieces",
+          "1/4 cup vegetable oil",
+          "2 tbsp lemon juice",
+          "1 tbsp paprika",
+          "2 tbsp tomato paste",
+          "1/2 tsp black pepper",
+          "1/4 cup fresh parsley, chopped"
+        ],
+        "mathod": [
+          "In a large bowl, whisk together the vegetable oil, lemon juice, tomato paste, paprika, cumin, coriander, turmeric, salt, black pepper, cinnamon, and cayenne pepper (if using).",
+
+          "Add the minced garlic, chopped onion, and fresh parsley to the marinade, and stir to combine",
+          "Add the chicken pieces to the marinade, and toss to coat. Cover the bowl with plastic wrap, and refrigerate for at least 4 hours or overnight.",
+          "Remove the chicken from the marinade, and shake off any excess. Discard the remaining marinade."
+        ]
+      }
+    ]
   },
   {
     "id": "4",
@@ -43,7 +292,72 @@
     "experiance": "09 years",
     "titel": "hey.. im ibrahim im senior chef in one of The famouse resturent 'the Globe' in riyadh,saudi arabia i have a experiance of 09 years on this chef faild",
     "totalRec": "18",
-    "like": "1007"
+    "like": "1007",
+    "recipe": [
+      {
+        "recipeName": "kabuli",
+        "ingradiants": [
+          "2 cups basmati rice",
+          "1 kg chicken, cut into pieces",
+          "1 onion, chopped",
+          "4 cloves garlic, minced",
+          "2 tomatoes, diced",
+          "1 tbsp tomato paste",
+          "2 tbsp vegetable oil",
+          "2 tbsp butter",
+          "2 cinnamon sticks"
+        ],
+
+        "mathod": [
+          "Rinse the rice and soak it in water for 30 minutes.",
+          "In a large pot or dutch oven, heat the vegetable oil and butter over medium-high heat.",
+          "Add the chopped onion and garlic, and cook until the onion is translucent.",
+          "Add the diced tomatoes and tomato paste, and cook for a few minutes until the tomatoes start to break down.",
+          "Add the cinnamon sticks, bay leaves, cardamom pods, cumin, coriander, turmeric, black pepper, and salt. Stir to combine.",
+          "Drain the soaked rice and add it to the pot. Stir to coat the rice in the spice mixture",
+          "Add the water and bring to a boil. Reduce the heat to low and cover the pot. Cook for 20-30 minutes",
+          "Once the rice is done, remove the pot from the heat and let it sit, covered, for 5-10 minutes to allow the steam to finish cooking the rice.",
+          "Garnish with chopped parsley or cilantro, if desired. Serve hot."
+        ]
+      },
+      {
+        "recipeName": "Saloona",
+        "ingradiants": [
+          "1 lb. boneless, skinless chicken breasts, thinly sliced",
+          " 4-6 pita breads",
+          "1 cup plain Greek yogurt",
+          "1/4 cup lemon juice",
+          "2 cloves garlic, minced",
+          " 1 tsp. cumin & 1 tsp. paprika",
+          " Olive oil, for cooking"
+        ],
+        "mathod": [
+          "In a bowl, whisk together the yogurt, lemon juice, garlic, cumin, paprika, turmeric, salt, and pepper. Add the chicken and toss to coat. Marinate in the fridge for at least 30 minutes, up to 8 hours.",
+          "Heat a drizzle of olive oil in a large skillet over medium-high heat. Add the chicken and cook for 5-7 minutes, or until cooked through.",
+          "Toast the pita breads in a toaster or oven until warm and slightly crispy",
+          "Assemble the shawarmas by placing a spoonful of tahini sauce on the pita bread, followed by the chicken and toppings of your choice. Roll up the pita bread and enjoy!"
+        ]
+      },
+      {
+        "recipeName": "Luqaimat",
+        "ingradiants": [
+          "1 whole chicken, cut into pieces",
+          "1/4 cup vegetable oil",
+          "2 tbsp lemon juice",
+          "1 tbsp paprika",
+          "2 tbsp tomato paste",
+          "1/2 tsp black pepper",
+          "1/4 cup fresh parsley, chopped"
+        ],
+        "mathod": [
+          "In a large bowl, whisk together the vegetable oil, lemon juice, tomato paste, paprika, cumin, coriander, turmeric, salt, black pepper, cinnamon, and cayenne pepper (if using).",
+
+          "Add the minced garlic, chopped onion, and fresh parsley to the marinade, and stir to combine",
+          "Add the chicken pieces to the marinade, and toss to coat. Cover the bowl with plastic wrap, and refrigerate for at least 4 hours or overnight.",
+          "Remove the chicken from the marinade, and shake off any excess. Discard the remaining marinade."
+        ]
+      }
+    ]
   },
   {
     "id": "5",
@@ -52,6 +366,72 @@
     "experiance": "16 years",
     "titel": "hey.. im hussain im senior chef in one of The famouse resturent 'the Globe' in riyadh,saudi arabia i have a experiance of 16 years on this chef faild",
     "totalRec": "35",
-    "like": "1237"
+    "like": "1237",
+    "recipe": [
+      {
+        "recipeName": "Balaleet",
+        "ingradiants": [
+          "2 cups basmati rice",
+          "1 kg chicken, cut into pieces",
+          "1 onion, chopped",
+          "4 cloves garlic, minced",
+          "2 tomatoes, diced",
+          "1 tbsp tomato paste",
+          "2 tbsp vegetable oil",
+          "2 tbsp butter",
+          "2 cinnamon sticks"
+        ],
+
+        "mathod": [
+          "Rinse the rice and soak it in water for 30 minutes.",
+          "In a large pot or dutch oven, heat the vegetable oil and butter over medium-high heat.",
+          "Add the chopped onion and garlic, and cook until the onion is translucent.",
+          "Add the diced tomatoes and tomato paste, and cook for a few minutes until the tomatoes start to break down.",
+          "Add the cinnamon sticks, bay leaves, cardamom pods, cumin, coriander, turmeric, black pepper, and salt. Stir to combine.",
+          "Drain the soaked rice and add it to the pot. Stir to coat the rice in the spice mixture",
+          "Add the water and bring to a boil. Reduce the heat to low and cover the pot. Cook for 20-30 minutes",
+          "Once the rice is done, remove the pot from the heat and let it sit, covered, for 5-10 minutes to allow the steam to finish cooking the rice.",
+          "Garnish with chopped parsley or cilantro, if desired. Serve hot."
+        ]
+      },
+      {
+        "recipeName": "Bint al-Sahn",
+        "ingradiants": ["1 lb. boneless, skinless chicken breasts, thinly sliced",
+        " 4-6 pita breads",
+        "1 cup plain Greek yogurt",
+        "1/4 cup lemon juice",
+        "2 cloves garlic, minced", 
+        " 1 tsp. cumin & 1 tsp. paprika",
+        " Olive oil, for cooking"
+      ],
+      "mathod" : [
+        "In a bowl, whisk together the yogurt, lemon juice, garlic, cumin, paprika, turmeric, salt, and pepper. Add the chicken and toss to coat. Marinate in the fridge for at least 30 minutes, up to 8 hours.",
+        "Heat a drizzle of olive oil in a large skillet over medium-high heat. Add the chicken and cook for 5-7 minutes, or until cooked through.",
+        "Toast the pita breads in a toaster or oven until warm and slightly crispy",
+        "Assemble the shawarmas by placing a spoonful of tahini sauce on the pita bread, followed by the chicken and toppings of your choice. Roll up the pita bread and enjoy!"
+       
+      ]
+
+      },
+      {
+        "recipeName": "Saltah",
+        "ingradiants": [
+          "1 whole chicken, cut into pieces",
+          "1/4 cup vegetable oil",
+          "2 tbsp lemon juice",
+          "1 tbsp paprika",
+          "2 tbsp tomato paste",
+          "1/2 tsp black pepper",
+          "1/4 cup fresh parsley, chopped"
+        ],
+        "mathod": [
+          "In a large bowl, whisk together the vegetable oil, lemon juice, tomato paste, paprika, cumin, coriander, turmeric, salt, black pepper, cinnamon, and cayenne pepper (if using).",
+          
+          "Add the minced garlic, chopped onion, and fresh parsley to the marinade, and stir to combine",
+          "Add the chicken pieces to the marinade, and toss to coat. Cover the bowl with plastic wrap, and refrigerate for at least 4 hours or overnight.",
+          "Remove the chicken from the marinade, and shake off any excess. Discard the remaining marinade."
+        ]
+      }
+    ]
   } 
 ]
