@@ -11,3 +11,9 @@ app.get('/', (req,res) => {
 app.listen(port, ()=>{
     console.log("server running", port);
 })
+
+
+const chef = require('./data/chef.json');
+app.get('/chef', (req, res) => {
+    res.send(chef)
+})
