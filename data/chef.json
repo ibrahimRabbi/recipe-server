@@ -2,17 +2,19 @@
   {
     "id": "0",
     "name": "ibne maktuba",
-    "photo" : "https://i1.wp.com/www.arabamerica.com/wp-content/uploads/2020/09/IMG-0053.jpg?resize=1024%2C1024&ssl=1",
+    "photo" : "https://s.wsj.net/public/resources/images/BN-QC644_NYISRA_P_20161004170548.jpg",
     "experiance" : "05 years",
+     "titel" : "hey.. im maktuba im senior chef in one of The famouse resturent 'the Globe' in riyadh,saudi arabia i have a experiance of 05 years on this chef faild",
     "totalRec" : "22",
     "like" : "789"
   },
-  
+
   {
     "id": "1",
     "name": "Abdul malik",
     "photo": "https://www.arabnews.com/sites/default/files/styles/n_670_395/public/main-image/2018/04/29/1172456-1509480137.jpg?itok=tWJN0VxU",
     "experiance": "03 years",
+    "titel": "hey.. im maktuba im senior chef in one of The famouse resturent 'the Globe' in riyadh,saudi arabia i have a experiance of 03 years on this chef faild",
     "totalRec": "16",
     "like": "934"
   },
@@ -20,7 +22,8 @@
     "id": "2",
     "name": "wajiyah",
     "photo": "https://thestartupscene.me/Content/Admin/Uploads/Articles/ArticlesMainPhoto/952928/f709458d-5841-461a-b5f1-8cfdd6aa72c9.JPG",
-    "experiance": "09",
+    "experiance": "09 years",
+    "titel": "hey.. im wajiyah im senior chef in one of The famouse resturent 'the Globe' in riyadh,saudi arabia i have a experiance of 9 years on this chef faild",
     "totalRec": "26",
     "like": "1256 "
   },
@@ -28,15 +31,17 @@
     "id": "3",
     "name": "muhammad jubair",
     "photo": "https://www.bbcgoodfoodme.com/assets/var/app/current/features/329/original/Greg.jpg",
-    "experiance": "15",
+    "experiance": "15 years",
+    "titel": "hey.. im maktuba im senior chef in one of The famouse resturent 'the Globe' in riyadh,saudi arabia i have a experiance of 15 years on this chef faild",
     "totalRec": "35",
     "like": "1628"
   },
   {
     "id": "4",
     "name": "ibrahim khalid",
-    "photo": "https://assets-global.website-files.com/5fe870209b4f367ca43b8b48/607da946f4fa1659306489c2_1356_TarekIbrahimPortrai.jpeg",
-    "experiance": "09",
+    "photo": "https://blog.atlantisthepalm.com/wp-content/uploads/2019/05/chefAli-844x428-516x262.jpg",
+    "experiance": "09 years",
+    "titel": "hey.. im ibrahim im senior chef in one of The famouse resturent 'the Globe' in riyadh,saudi arabia i have a experiance of 09 years on this chef faild",
     "totalRec": "18",
     "like": "1007"
   },
@@ -44,7 +49,8 @@
     "id": "5",
     "name": "hussain mahmud",
     "photo": "https://www.theprochefme.com/wp-content/uploads/2019/10/Amad-1.jpg",
-    "experiance": "16",
+    "experiance": "16 years",
+    "titel": "hey.. im hussain im senior chef in one of The famouse resturent 'the Globe' in riyadh,saudi arabia i have a experiance of 16 years on this chef faild",
     "totalRec": "35",
     "like": "1237"
   } 
