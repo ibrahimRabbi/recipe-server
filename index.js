@@ -20,8 +20,11 @@ app.get('/chef', (req, res) => {
 
 app.get('/chef/:id', (req, res) => {
     const id = req.params.id;
-    
     const data = chef.find(v => v.id == id)
     res.send(data)
-    
 })
+
+const latestRecipe = require('./data/latest.json')
+app.get("/latest", (req, res) => {
+  res.send(latestRecipe);
+});
