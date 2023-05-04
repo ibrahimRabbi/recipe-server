@@ -27,4 +27,5 @@ app.get('/chef/:id', (req, res) => {
 const latestRecipe = require('./data/latest.json')
 app.get("/latest", (req, res) => {
   res.send(latestRecipe);
+
 });
